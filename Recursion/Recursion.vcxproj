@@ -130,6 +130,9 @@
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="tree-recursion.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tree-recursion.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
